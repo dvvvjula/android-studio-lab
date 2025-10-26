@@ -1,9 +1,8 @@
 <resources>
-    <string name="app_name">Pierwsza Aplikacja</string>
-    <string name="editText1">Proszę wpisać tekst</string>
-    <string name="button1">Wyślij</string>
-    <string name="button2">Powrót</string>
-    <string name="textView">Dzień dobry</string>
-    <string name="switch1">WIELKIE LITERY</string>
-    <string name="buttonClose">Zamknij aplikację</string>
+    <string name="app_name">Przelicznik walut</string>
+    <string name="europln">eur</string>
+    <string name="usdpln">usd</string>
+    <string name="chfpln">chf</string>
+    <string name="ilePrzeliczyc">Wpisz liczbę do przeliczenia na pln, po czym wybierz walutę</string>
+    <string name="wynik">Po przeliczeniu</string>
 </resources>

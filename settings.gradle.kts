@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Pierwsza Aplikacja"
+rootProject.name = "Przelicznik walut"
 include(":app")
