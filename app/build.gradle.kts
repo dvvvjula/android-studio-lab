@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.przelicznikwalut"
+    namespace = "com.example.programkalkulator"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.przelicznikwalut"
+        applicationId = "com.example.programkalkulator"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

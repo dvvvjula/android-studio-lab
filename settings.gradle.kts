@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Przelicznik walut"
+rootProject.name = "Program Kalkulator"
 include(":app")
+ 

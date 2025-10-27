@@ -1,4 +1,4 @@
-package com.example.przelicznikwalut;
+package com.example.programkalkulator;
 
 import org.junit.Test;
 
