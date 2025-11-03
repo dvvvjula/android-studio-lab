@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.programkalkulator"
+    namespace = "com.example.intencje"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.programkalkulator"
+        applicationId = "com.example.intencje"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

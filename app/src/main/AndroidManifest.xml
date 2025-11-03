@@ -10,10 +10,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.ProgramKalkulator">
+        android:theme="@style/Theme.Intencje">
         <activity
-            android:name=".RozszerzoneFunkcjeActivity"
+            android:name=".Intencja"
             android:exported="false" />
+        <activity android:name=".IntencjaParametr"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">

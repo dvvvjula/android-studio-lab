@@ -1,4 +1,4 @@
-package com.example.programkalkulator;
+package com.example.intencje;
 
 import org.junit.Test;
 

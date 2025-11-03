@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Program Kalkulator"
+rootProject.name = "Intencje"
 include(":app")
  

@@ -1,15 +1,4 @@
 <resources>
-    <string name="app_name">Program Kalkulator</string>
-    <string name="cyfrajeden">pierwsza cyfra</string>
-    <string name="cyfradwa">druga cyfra</string>
-    <string name="dodawanie">+</string>
-    <string name="odejmowanie">-</string>
-    <string name="mnozenie">*</string>
-    <string name="dzielenie">/</string>
-    <string name="pierwiastkowanie">√</string>
-    <string name="silnia">!</string>
-    <string name="rozszerzenie">Pokaż rozszerzone funkcje</string>
-    <string name="powrot">Powrót</string>
-    <string name="wynik">Wynik działania</string>
-    <string name="potegowanie">^</string>
+    <string name="app_name">Intencje</string>
+    <string name="poleTekstowe">zmienna</string>
 </resources>
