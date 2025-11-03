@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.intencje"
+    namespace = "com.example.navigation"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.intencje"
+        applicationId = "com.example.navigation"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

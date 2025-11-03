@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Intencje"
+rootProject.name = "Navigation"
 include(":app")
  
