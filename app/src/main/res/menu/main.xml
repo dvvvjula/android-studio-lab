@@ -2,20 +2,34 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
+
     <item
-        android:id="@+id/opcja1"
+        android:id="@+id/action_mute"
         android:orderInCategory="100"
-        android:title="Opcja 1" />
+        android:title="Wycisz telefon" />
+
     <item
-        android:id="@+id/opcja2"
+        android:id="@+id/action_info"
         android:orderInCategory="110"
-        android:title="Opcja 2" />
+        android:title="Wyświetl informacje o autorze" />
+
     <item
-        android:id="@+id/opcja3"
+        android:id="@+id/action_exit"
         android:orderInCategory="120"
-        android:title="Opcja 3" />
+        android:title="Wyłącz aplikację" />
+
     <item
-        android:id="@+id/opcja4"
+        android:id="@+id/action_run"
         android:orderInCategory="101"
-        android:title="@string/autor" />
+        android:title="Uruchom">
+        <menu>
+            <item
+                android:id="@+id/run_maps"
+                android:title="Google Maps" />
+            <item
+                android:id="@+id/run_browser"
+                android:title="Google Browser" />
+        </menu>
+    </item>
+
 </menu>

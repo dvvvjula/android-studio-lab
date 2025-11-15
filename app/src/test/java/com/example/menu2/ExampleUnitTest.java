@@ -1,4 +1,4 @@
-package com.example.menu1;
+package com.example.menu2;
 
 import org.junit.Test;
 
