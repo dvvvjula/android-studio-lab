@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Pierwsza Aplikacja"
+rootProject.name = "Menu 1"
 include(":app")
+ 

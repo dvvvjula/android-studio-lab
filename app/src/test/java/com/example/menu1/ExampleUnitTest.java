@@ -1,4 +1,4 @@
-package com.example.pierwszaaplikacja;
+package com.example.menu1;
 
 import org.junit.Test;
 
