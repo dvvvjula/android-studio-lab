@@ -1,4 +1,4 @@
-package com.example.menu2;
+package com.example.listazakupow;
 
 import org.junit.Test;
 

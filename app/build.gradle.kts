@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.menu2"
+    namespace = "com.example.listazakupow"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.menu2"
+        applicationId = "com.example.listazakupow"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -37,7 +37,10 @@ dependencies {
     implementation(libs.material)
     implementation(libs.activity)
     implementation(libs.constraintlayout)
+    implementation(libs.room.common.jvm)
+    implementation(libs.room.runtime)
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+    annotationProcessor(libs.room.compiler)
 }

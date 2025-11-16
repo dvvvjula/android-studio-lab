@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Menu 2"
+rootProject.name = "Lista zakupow"
 include(":app")
- 
