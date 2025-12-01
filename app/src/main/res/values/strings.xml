@@ -1,9 +1,3 @@
 <resources>
-    <string name="app_name">Pierwsza Aplikacja</string>
-    <string name="editText1">Proszę wpisać tekst</string>
-    <string name="button1">Wyślij</string>
-    <string name="button2">Powrót</string>
-    <string name="textView">Dzień dobry</string>
-    <string name="switch1">WIELKIE LITERY</string>
-    <string name="buttonClose">Zamknij aplikację</string>
+    <string name="app_name">Broadcast receiver</string>
 </resources>

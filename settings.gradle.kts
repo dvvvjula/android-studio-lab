@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Pierwsza Aplikacja"
+rootProject.name = "Broadcast receiver"
 include(":app")
+ 

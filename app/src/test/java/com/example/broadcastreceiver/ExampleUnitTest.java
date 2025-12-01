@@ -1,4 +1,4 @@
-package com.example.pierwszaaplikacja;
+package com.example.broadcastreceiver;
 
 import org.junit.Test;
 

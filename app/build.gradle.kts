@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pierwszaaplikacja"
+    namespace = "com.example.broadcastreceiver"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.pierwszaaplikacja"
-        minSdk = 24
+        applicationId = "com.example.broadcastreceiver"
+        minSdk = 26
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"
