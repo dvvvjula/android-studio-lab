@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Broadcast receiver"
+rootProject.name = "Permissions"
 include(":app")
- 

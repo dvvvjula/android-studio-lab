@@ -1,4 +1,4 @@
-package com.example.broadcastreceiver;
+package com.example.permissions;
 
 import org.junit.Test;
 
