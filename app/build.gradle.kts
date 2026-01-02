@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.permissions"
+    namespace = "com.example.minutnik"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.permissions"
+        applicationId = "com.example.minutnik"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

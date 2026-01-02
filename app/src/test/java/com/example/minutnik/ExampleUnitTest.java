@@ -1,4 +1,4 @@
-package com.example.permissions;
+package com.example.minutnik;
 
 import org.junit.Test;
 

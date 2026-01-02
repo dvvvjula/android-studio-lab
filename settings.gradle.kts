@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Permissions"
+rootProject.name = "Minutnik"
 include(":app")
+ 
